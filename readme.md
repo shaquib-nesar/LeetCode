@@ -12,6 +12,9 @@ Problem No. | Problems Title |
 103 | [Binary Tree Zigzag Level Order Traversal](https://github.com/shaquib-nesar/LeetCode/blob/main/src/com/leet/trees/BinaryTreeZigzagLevelOrderTraversal.java) |
 110 | [Balanced Binary Tree](https://github.com/shaquib-nesar/LeetCode/blob/main/src/com/leet/trees/BalancedBinaryTree.java) |
 111 | [Minimum Depth of Binary Tree](https://github.com/shaquib-nesar/LeetCode/blob/main/src/com/leet/trees/MinimumDepthOfBinaryTree.java) |
+200 | [Number of Islands](https://github.com/shaquib-nesar/LeetCode/blob/main/src/com/leet/graphs/NumberOfIsland.java) |
 215 | [Kth Largest Element in an Array](https://github.com/shaquib-nesar/LeetCode/blob/main/src/com/leet/KthLargestElementInAnArray.java) |
 295 | [Find Median from Data Stream](https://github.com/shaquib-nesar/LeetCode/blob/main/src/com/leet/FindMedianFromDataStream.java) |
-
+994 | [Rotting Oranges](https://github.com/shaquib-nesar/LeetCode/blob/main/src/com/leet/graphs/RottingOranges.java) |
+1791 | [Find Center of Star Graph](https://github.com/shaquib-nesar/LeetCode/blob/main/src/com/leet/graphs/FindCenterOfStarGraph.java) |
+1971 | [Find if Path Exists in Graph](https://github.com/shaquib-nesar/LeetCode/blob/main/src/com/leet/graphs/FindIfPathExistsInGraph.java) |
